@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i');
+
+html, body {
+    font-family: 'Roboto','Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: bisque;
+}
+
+h1, figcaption, img {
+    display: block;
+    margin: 1rem auto;
+    width: 40rem;
+    text-align: justify;
+}
+
+img {
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+blockquote {
+    font-size: 2rem;
+    margin: auto;
+    width: 60%;
+}
+
+#img-div {
+    background-color: blanchedalmond;
+    width: 70%;
+    padding: 1rem;
+    margin: auto;
+}
+#tribute-info {
+    margin: auto 10rem;
+}
